@@ -1,2 +1,3 @@
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=5FS0beln3gs "Jak funguje Plugin iVysílání")
+**Jak funguje Plugin iVysilani-shortcode pro Wordpress**
 
+https://github.com/dadokcz/ivysilani-shortcode/assets/5154013/8699176d-f250-48fa-9e6d-6902b7619e64
